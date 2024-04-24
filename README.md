@@ -1,0 +1,1 @@
+# benthos_plugin_word_counter
